@@ -1,14 +1,12 @@
 {
   "connection": "default",
-  "collectionName": "dishes",
+  "collectionName": "",
   "info": {
     "name": "dish",
     "description": ""
   },
   "options": {
-    "increments": true,
-    "timestamps": true,
-    "comment": ""
+    "timestamps": true
   },
   "attributes": {
     "name": {

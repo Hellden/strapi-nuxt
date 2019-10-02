@@ -59,7 +59,7 @@ import restaurantsQuery from '~/apollo/queries/restaurant/restaurants'
 export default {
   data() {
     return {
-      // Initialize an empty restaurants variabkle
+      // Initialize an empty restaurants variable
       restaurants: [],
       query: ''
     }
